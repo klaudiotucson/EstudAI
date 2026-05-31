@@ -12,7 +12,7 @@ export default function LogoEstudia({ compact = false, className = "" }: LogoEst
       aria-label="estudAI"
     >
       <Image
-        src="/brand/estudai-logo.png"
+        src="/brand/logo.png"
         alt="Logo estudAI"
         fill
         priority

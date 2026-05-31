@@ -68,7 +68,7 @@ export default function PrintablePDF({ data, isRequested, onReady, images }: Pri
             
             {/* CAPA */}
             <div className="flex flex-col items-center justify-center min-h-[900px] border-8 border-slate-900 p-12 text-center relative break-after-page">
-                <img src="/brand/estudai-logo.png" alt="Logo estudAI" className="mb-8 h-32 w-32 object-contain" />
+                <img src="/brand/logo.png" alt="Logo estudAI" className="mb-8 h-32 w-32 object-contain" />
                 <h1 className="text-6xl font-black mb-6 uppercase tracking-tighter text-slate-900 leading-tight">
                     {data.tema}
                 </h1>
@@ -100,7 +100,7 @@ export default function PrintablePDF({ data, isRequested, onReady, images }: Pri
                         <h2 className="text-4xl font-black text-slate-900 uppercase tracking-tight">{data.tema}</h2>
                         <p className="text-lg font-bold text-blue-600 mt-2 uppercase tracking-widest">Resumo Completo</p>
                     </div>
-                    <img src="/brand/estudai-logo.png" alt="Logo estudAI" className="h-16 w-16 object-contain" />
+                    <img src="/brand/logo.png" alt="Logo estudAI" className="h-16 w-16 object-contain" />
                 </header>
 
                 <div className="mb-10">
