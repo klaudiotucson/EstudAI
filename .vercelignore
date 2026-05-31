@@ -13,14 +13,12 @@ _vanilla_backup
 backup_libs
 _temp_scripts
 
-# Exclude large files and images
+# Exclude generated archives/installers. Keep public images because the app
+# needs them in production, including the EstudAI logo.
 *.exe
 *.apk
 *.zip
 *.rar
-*.png
-*.webp
-*.jpg
 *.mp4
 *.docx
 *.pdf
