@@ -1,0 +1,8 @@
+# Cole suas chaves de API após o símbolo de igualdade (=)
+# Não use espaços ao redor do "=", não é necessário usar aspas.
+# O aplicativo tentará usar nesta ordem de prioridade (Deepseek -> OpenAI -> Kimi).
+# Deixe em branco as que você não for usar.
+
+DEEPSEEK_API_KEY=
+OPENAI_API_KEY=
+KIMI_API_KEY=

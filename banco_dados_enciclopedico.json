@@ -1,0 +1,1997 @@
+[
+    {
+        "id": "GEO-6-1",
+        "disciplina": "Geografia",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "O Espaço Geográfico",
+        "conteudo_detalhado": "Estudo das relações entre sociedade e natureza. Inclui conceitos de lugar (afetividade), paisagem (visível), território (poder) e região (características comuns).",
+        "tags": [
+            "Geografia",
+            "6ano",
+            "pesquisa escolar",
+            "o espaço geográfico"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-6-2",
+        "disciplina": "Geografia",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Cartografia",
+        "conteudo_detalhado": "Leitura de mapas, escalas (gráfica e numérica), legendas, orientação (rosa dos ventos) e coordenadas geográficas (latitude e longitude).",
+        "tags": [
+            "Geografia",
+            "6ano",
+            "pesquisa escolar",
+            "cartografia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-6-3",
+        "disciplina": "Geografia",
+        "ano": 6,
+        "bimestre": 3,
+        "titulo_pesquisa": "Estrutura da Terra",
+        "conteudo_detalhado": "Camadas da Terra: Crosta, Manto e Núcleo. Litosfera, Hidrosfera, Atmosfera e Biosfera. Teoria das Placas Tectônicas e deriva continental.",
+        "tags": [
+            "Geografia",
+            "6ano",
+            "pesquisa escolar",
+            "estrutura da terra"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-6-4",
+        "disciplina": "Geografia",
+        "ano": 6,
+        "bimestre": 4,
+        "titulo_pesquisa": "Agentes do Relevo",
+        "conteudo_detalhado": "Agentes internos (vulcanismo, terremotos) e externos (erosão, intemperismo, ação humana).",
+        "tags": [
+            "Geografia",
+            "6ano",
+            "pesquisa escolar",
+            "agentes do relevo"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-7-1",
+        "disciplina": "Geografia",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Território Brasileiro",
+        "conteudo_detalhado": "Formação territorial do Brasil, fronteiras, extensão e pontos extremos. Divisão regional do IBGE e complexos regionais.",
+        "tags": [
+            "Geografia",
+            "7ano",
+            "pesquisa escolar",
+            "território brasileiro"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-7-2",
+        "disciplina": "Geografia",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "População Brasileira",
+        "conteudo_detalhado": "Crescimento demográfico, pirâmide etária, migrações internas e externas, e diversidade étnica.",
+        "tags": [
+            "Geografia",
+            "7ano",
+            "pesquisa escolar",
+            "população brasileira"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-7-3",
+        "disciplina": "Geografia",
+        "ano": 7,
+        "bimestre": 3,
+        "titulo_pesquisa": "Domínios Morfoclimáticos",
+        "conteudo_detalhado": "Amazônico, Cerrado, Mares de Morros, Caatinga, Araucárias e Pradarias. Características de solo, clima e vegetação.",
+        "tags": [
+            "Geografia",
+            "7ano",
+            "pesquisa escolar",
+            "domínios morfoclimáticos"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-8-1",
+        "disciplina": "Geografia",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Regionalização do Mundo",
+        "conteudo_detalhado": "Critérios de regionalização: continentes, desenvolvimento econômico (Norte/Sul), cultura e religião.",
+        "tags": [
+            "Geografia",
+            "8ano",
+            "pesquisa escolar",
+            "regionalização do mundo"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-8-2",
+        "disciplina": "Geografia",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "América e África",
+        "conteudo_detalhado": "Aspectos físicos, populacionais e econômicos dos continentes americano e africano. Contrastes sociais e processos de colonização.",
+        "tags": [
+            "Geografia",
+            "8ano",
+            "pesquisa escolar",
+            "américa e áfrica"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-8-3",
+        "disciplina": "Geografia",
+        "ano": 8,
+        "bimestre": 3,
+        "titulo_pesquisa": "Geopolítica Mundial",
+        "conteudo_detalhado": "Organizações internacionais (ONU, OMC, FMI), blocos econômicos e conflitos territoriais contemporâneos.",
+        "tags": [
+            "Geografia",
+            "8ano",
+            "pesquisa escolar",
+            "geopolítica mundial"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-9-1",
+        "disciplina": "Geografia",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Europa, Ásia e Oceania",
+        "conteudo_detalhado": "Estudo detalhado dos aspectos naturais e humanos. O papel da União Europeia, a ascensão da China e os tigres asiáticos.",
+        "tags": [
+            "Geografia",
+            "9ano",
+            "pesquisa escolar",
+            "europa, ásia e oceania"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-9-2",
+        "disciplina": "Geografia",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Globalização",
+        "conteudo_detalhado": "Fluxos de informações, capitais, mercadorias e pessoas. Impactos culturais e ambientais da economia globalizada.",
+        "tags": [
+            "Geografia",
+            "9ano",
+            "pesquisa escolar",
+            "globalização"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "GEO-9-3",
+        "disciplina": "Geografia",
+        "ano": 9,
+        "bimestre": 3,
+        "titulo_pesquisa": "Problemas Ambientais Globais",
+        "conteudo_detalhado": "Aquecimento global, efeito estufa, perda da biodiversidade e protocolos ambientais (Protocolo de Kyoto, Acordo de Paris).",
+        "tags": [
+            "Geografia",
+            "9ano",
+            "pesquisa escolar",
+            "problemas ambientais globais"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-6-1",
+        "disciplina": "História",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução aos Estudos Históricos",
+        "conteudo_detalhado": "O que é história, fontes históricas (orais, escritas, materiais), tempo cronológico e tempo histórico.",
+        "tags": [
+            "História",
+            "6ano",
+            "pesquisa escolar",
+            "introdução aos estudos históricos"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-6-2",
+        "disciplina": "História",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Pré-História",
+        "conteudo_detalhado": "Paleolítico (pedra lascada, fogo), Neolítico (pedra polida, agricultura, sedentarização) e Idade dos Metais.",
+        "tags": [
+            "História",
+            "6ano",
+            "pesquisa escolar",
+            "pré-história"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-6-3",
+        "disciplina": "História",
+        "ano": 6,
+        "bimestre": 3,
+        "titulo_pesquisa": "Antiguidade Oriental",
+        "conteudo_detalhado": "Mesopotâmia (escrita cuneiforme, código de Hamurabi) e Egito Antigo (pirâmides, faraós, religião politeísta).",
+        "tags": [
+            "História",
+            "6ano",
+            "pesquisa escolar",
+            "antiguidade oriental"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-6-4",
+        "disciplina": "História",
+        "ano": 6,
+        "bimestre": 4,
+        "titulo_pesquisa": "Antiguidade Clássica",
+        "conteudo_detalhado": "Grécia Antiga (democracia, filosofia, mitologia) e Roma Antiga (República, Império, Direito Romano).",
+        "tags": [
+            "História",
+            "6ano",
+            "pesquisa escolar",
+            "antiguidade clássica"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-7-1",
+        "disciplina": "História",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Idade Média",
+        "conteudo_detalhado": "Feudalismo (senhores e servos), Igreja Católica, Cruzadas e a Peste Negra.",
+        "tags": [
+            "História",
+            "7ano",
+            "pesquisa escolar",
+            "idade média"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-7-2",
+        "disciplina": "História",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Renascimento e Reforma",
+        "conteudo_detalhado": "Humanismo, artes renascentistas, Reforma Protestante (Lutero, Calvino) e Contrarreforma.",
+        "tags": [
+            "História",
+            "7ano",
+            "pesquisa escolar",
+            "renascimento e reforma"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-7-3",
+        "disciplina": "História",
+        "ano": 7,
+        "bimestre": 3,
+        "titulo_pesquisa": "Grandes Navegações",
+        "conteudo_detalhado": "Expansão marítima europeia, busca por especiarias, chegada à América e o Tratado de Tordesilhas.",
+        "tags": [
+            "História",
+            "7ano",
+            "pesquisa escolar",
+            "grandes navegações"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-7-4",
+        "disciplina": "História",
+        "ano": 7,
+        "bimestre": 4,
+        "titulo_pesquisa": "Brasil Colônia",
+        "conteudo_detalhado": "Ciclo do Açúcar, escravidão africana, entradas e bandeiras, e o Ciclo do Ouro.",
+        "tags": [
+            "História",
+            "7ano",
+            "pesquisa escolar",
+            "brasil colônia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-8-1",
+        "disciplina": "História",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Iluminismo",
+        "conteudo_detalhado": "Pensamento racionalista, críticas ao absolutismo, liberdade de expressão e filósofos (Voltaire, Montesquieu, Rousseau).",
+        "tags": [
+            "História",
+            "8ano",
+            "pesquisa escolar",
+            "iluminismo"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-8-2",
+        "disciplina": "História",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Revoluções Burguesas",
+        "conteudo_detalhado": "Revolução Inglesa, Revolução Industrial (máquinas, fábricas, operários) e Revolução Francesa (Queda da Bastilha, Direitos do Homem).",
+        "tags": [
+            "História",
+            "8ano",
+            "pesquisa escolar",
+            "revoluções burguesas"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-8-3",
+        "disciplina": "História",
+        "ano": 8,
+        "bimestre": 3,
+        "titulo_pesquisa": "Independência das Américas",
+        "conteudo_detalhado": "Independência dos EUA e das colônias espanholas. O processo de Independência do Brasil (1822).",
+        "tags": [
+            "História",
+            "8ano",
+            "pesquisa escolar",
+            "independência das américas"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-8-4",
+        "disciplina": "História",
+        "ano": 8,
+        "bimestre": 4,
+        "titulo_pesquisa": "Brasil Império",
+        "conteudo_detalhado": "Primeiro Reinado, Período Regencial e Segundo Reinado (D. Pedro II, Guerra do Paraguai, Abolição).",
+        "tags": [
+            "História",
+            "8ano",
+            "pesquisa escolar",
+            "brasil império"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-9-1",
+        "disciplina": "História",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Brasil República",
+        "conteudo_detalhado": "República Velha (café com leite), Era Vargas (leis trabalhistas, ditadura), Ditadura Militar e Redemocratização.",
+        "tags": [
+            "História",
+            "9ano",
+            "pesquisa escolar",
+            "brasil república"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-9-2",
+        "disciplina": "História",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Primeira e Segunda Guerra Mundial",
+        "conteudo_detalhado": "Causas, principais batalhas, Holocausto, bombas atômicas e a criação da ONU.",
+        "tags": [
+            "História",
+            "9ano",
+            "pesquisa escolar",
+            "primeira e segunda guerra mundial"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-9-3",
+        "disciplina": "História",
+        "ano": 9,
+        "bimestre": 3,
+        "titulo_pesquisa": "Guerra Fria",
+        "conteudo_detalhado": "Capitalismo vs Socialismo, Corrida Espacial, Muro de Berlim e queda da URSS.",
+        "tags": [
+            "História",
+            "9ano",
+            "pesquisa escolar",
+            "guerra fria"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "HIS-9-4",
+        "disciplina": "História",
+        "ano": 9,
+        "bimestre": 4,
+        "titulo_pesquisa": "Mundo Contemporâneo",
+        "conteudo_detalhado": "Conflitos no Oriente Médio, terrorismo, avanços tecnológicos e movimentos sociais do século XXI.",
+        "tags": [
+            "História",
+            "9ano",
+            "pesquisa escolar",
+            "mundo contemporâneo"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-6-1",
+        "disciplina": "Ciências",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Misturas e Substâncias",
+        "conteudo_detalhado": "Misturas homogêneas e heterogêneas. Métodos de separação (filtração, decantação, destilação).",
+        "tags": [
+            "Ciências",
+            "6ano",
+            "pesquisa escolar",
+            "misturas e substâncias"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-6-2",
+        "disciplina": "Ciências",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Sistema Nervoso e Sensorial",
+        "conteudo_detalhado": "Funcionamento do cérebro, nervos e os cinco sentidos (visão, audição, tato, olfato, paladar).",
+        "tags": [
+            "Ciências",
+            "6ano",
+            "pesquisa escolar",
+            "sistema nervoso e sensorial"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-6-3",
+        "disciplina": "Ciências",
+        "ano": 6,
+        "bimestre": 3,
+        "titulo_pesquisa": "Célula",
+        "conteudo_detalhado": "Unidade básica da vida. Organelas celulares, células animais e vegetais, procariontes e eucariontes.",
+        "tags": [
+            "Ciências",
+            "6ano",
+            "pesquisa escolar",
+            "célula"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-6-4",
+        "disciplina": "Ciências",
+        "ano": 6,
+        "bimestre": 4,
+        "titulo_pesquisa": "Sistema Locomotor",
+        "conteudo_detalhado": "Ossos, músculos e articulações. Importância da postura e exercícios físicos.",
+        "tags": [
+            "Ciências",
+            "6ano",
+            "pesquisa escolar",
+            "sistema locomotor"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-7-1",
+        "disciplina": "Ciências",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Reinos dos Seres Vivos",
+        "conteudo_detalhado": "Classificação biológica: Monera, Protista, Fungi, Plantae e Animalia.",
+        "tags": [
+            "Ciências",
+            "7ano",
+            "pesquisa escolar",
+            "reinos dos seres vivos"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-7-2",
+        "disciplina": "Ciências",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Ecossistemas Brasileiros",
+        "conteudo_detalhado": "Cadeias alimentares, relações ecológicas (simbiose, parasitismo) e preservação ambiental.",
+        "tags": [
+            "Ciências",
+            "7ano",
+            "pesquisa escolar",
+            "ecossistemas brasileiros"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-7-3",
+        "disciplina": "Ciências",
+        "ano": 7,
+        "bimestre": 3,
+        "titulo_pesquisa": "Máquinas Simples",
+        "conteudo_detalhado": "Alavancas, roldanas, planos inclinados e o conceito de trabalho e força.",
+        "tags": [
+            "Ciências",
+            "7ano",
+            "pesquisa escolar",
+            "máquinas simples"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-7-4",
+        "disciplina": "Ciências",
+        "ano": 7,
+        "bimestre": 4,
+        "titulo_pesquisa": "Calor e Temperatura",
+        "conteudo_detalhado": "Propagação do calor (condução, convecção, irradiação) e escalas termométricas.",
+        "tags": [
+            "Ciências",
+            "7ano",
+            "pesquisa escolar",
+            "calor e temperatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-8-1",
+        "disciplina": "Ciências",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Sistemas do Corpo Humano",
+        "conteudo_detalhado": "Digestório, Respiratório, Circulatório e Excretor. Anatomia e fisiologia detalhada.",
+        "tags": [
+            "Ciências",
+            "8ano",
+            "pesquisa escolar",
+            "sistemas do corpo humano"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-8-2",
+        "disciplina": "Ciências",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Reprodução Humana",
+        "conteudo_detalhado": "Puberdade, sistema reprodutor masculino e feminino, ciclo menstrual, fecundação e métodos contraceptivos.",
+        "tags": [
+            "Ciências",
+            "8ano",
+            "pesquisa escolar",
+            "reprodução humana"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-8-3",
+        "disciplina": "Ciências",
+        "ano": 8,
+        "bimestre": 3,
+        "titulo_pesquisa": "Sexualidade e Saúde",
+        "conteudo_detalhado": "Infecções Sexualmente Transmissíveis (ISTs) e a importância do autocuidado.",
+        "tags": [
+            "Ciências",
+            "8ano",
+            "pesquisa escolar",
+            "sexualidade e saúde"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-8-4",
+        "disciplina": "Ciências",
+        "ano": 8,
+        "bimestre": 4,
+        "titulo_pesquisa": "Fontes de Energia",
+        "conteudo_detalhado": "Energias renováveis e não renováveis. Impactos ambientais da produção de energia.",
+        "tags": [
+            "Ciências",
+            "8ano",
+            "pesquisa escolar",
+            "fontes de energia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-9-1",
+        "disciplina": "Ciências",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Química Geral",
+        "conteudo_detalhado": "Átomos, tabela periódica, ligações químicas e reações químicas básicas.",
+        "tags": [
+            "Ciências",
+            "9ano",
+            "pesquisa escolar",
+            "química geral"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-9-2",
+        "disciplina": "Ciências",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Física: Movimento e Força",
+        "conteudo_detalhado": "Leis de Newton, velocidade média, aceleração e gravidade.",
+        "tags": [
+            "Ciências",
+            "9ano",
+            "pesquisa escolar",
+            "física: movimento e força"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-9-3",
+        "disciplina": "Ciências",
+        "ano": 9,
+        "bimestre": 3,
+        "titulo_pesquisa": "Genética",
+        "conteudo_detalhado": "DNA, genes, hereditariedade e as leis de Mendel. Biotecnologia e transgênicos.",
+        "tags": [
+            "Ciências",
+            "9ano",
+            "pesquisa escolar",
+            "genética"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "CIÊ-9-4",
+        "disciplina": "Ciências",
+        "ano": 9,
+        "bimestre": 4,
+        "titulo_pesquisa": "Astronomia",
+        "conteudo_detalhado": "Sistema Solar, evolução das estrelas, galáxias e a exploração espacial.",
+        "tags": [
+            "Ciências",
+            "9ano",
+            "pesquisa escolar",
+            "astronomia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-6-1",
+        "disciplina": "Matemática",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Números Naturais e Decimais",
+        "conteudo_detalhado": "Operações fundamentais, potenciação e radiciação simples. Uso da reta numérica.",
+        "tags": [
+            "Matemática",
+            "6ano",
+            "pesquisa escolar",
+            "números naturais e decimais"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-6-2",
+        "disciplina": "Matemática",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Frações",
+        "conteudo_detalhado": "Conceito, equivalência, comparação e operações com frações.",
+        "tags": [
+            "Matemática",
+            "6ano",
+            "pesquisa escolar",
+            "frações"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-6-3",
+        "disciplina": "Matemática",
+        "ano": 6,
+        "bimestre": 3,
+        "titulo_pesquisa": "Geometria Plana",
+        "conteudo_detalhado": "Ponto, reta, plano, ângulos, polígonos e círculos.",
+        "tags": [
+            "Matemática",
+            "6ano",
+            "pesquisa escolar",
+            "geometria plana"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-6-4",
+        "disciplina": "Matemática",
+        "ano": 6,
+        "bimestre": 4,
+        "titulo_pesquisa": "Medidas",
+        "conteudo_detalhado": "Comprimento, massa, capacidade, tempo e temperatura.",
+        "tags": [
+            "Matemática",
+            "6ano",
+            "pesquisa escolar",
+            "medidas"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-7-1",
+        "disciplina": "Matemática",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Números Inteiros",
+        "conteudo_detalhado": "Números positivos e negativos, operações e valor absoluto.",
+        "tags": [
+            "Matemática",
+            "7ano",
+            "pesquisa escolar",
+            "números inteiros"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-7-2",
+        "disciplina": "Matemática",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Números Racionais",
+        "conteudo_detalhado": "Representação fracionária e decimal, dízimas periódicas.",
+        "tags": [
+            "Matemática",
+            "7ano",
+            "pesquisa escolar",
+            "números racionais"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-7-3",
+        "disciplina": "Matemática",
+        "ano": 7,
+        "bimestre": 3,
+        "titulo_pesquisa": "Equações do 1º Grau",
+        "conteudo_detalhado": "Resolução de problemas com incógnitas e balanço de equações.",
+        "tags": [
+            "Matemática",
+            "7ano",
+            "pesquisa escolar",
+            "equações do 1º grau"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-7-4",
+        "disciplina": "Matemática",
+        "ano": 7,
+        "bimestre": 4,
+        "titulo_pesquisa": "Razão e Proporção",
+        "conteudo_detalhado": "Regra de três simples, porcentagem e juros simples.",
+        "tags": [
+            "Matemática",
+            "7ano",
+            "pesquisa escolar",
+            "razão e proporção"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-8-1",
+        "disciplina": "Matemática",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Potenciação e Radiciação",
+        "conteudo_detalhado": "Propriedades das potências e raízes exatas e aproximadas.",
+        "tags": [
+            "Matemática",
+            "8ano",
+            "pesquisa escolar",
+            "potenciação e radiciação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-8-2",
+        "disciplina": "Matemática",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Cálculo Algébrico",
+        "conteudo_detalhado": "Monômios, polinômios e produtos notáveis.",
+        "tags": [
+            "Matemática",
+            "8ano",
+            "pesquisa escolar",
+            "cálculo algébrico"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-8-3",
+        "disciplina": "Matemática",
+        "ano": 8,
+        "bimestre": 3,
+        "titulo_pesquisa": "Triângulos e Quadriláteros",
+        "conteudo_detalhado": "Propriedades, congruência e semelhança.",
+        "tags": [
+            "Matemática",
+            "8ano",
+            "pesquisa escolar",
+            "triângulos e quadriláteros"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-8-4",
+        "disciplina": "Matemática",
+        "ano": 8,
+        "bimestre": 4,
+        "titulo_pesquisa": "Probabilidade e Estatística",
+        "conteudo_detalhado": "Média, moda, mediana e análise de gráficos.",
+        "tags": [
+            "Matemática",
+            "8ano",
+            "pesquisa escolar",
+            "probabilidade e estatística"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-9-1",
+        "disciplina": "Matemática",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Números Reais",
+        "conteudo_detalhado": "Conjuntos numéricos e irracionais.",
+        "tags": [
+            "Matemática",
+            "9ano",
+            "pesquisa escolar",
+            "números reais"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-9-2",
+        "disciplina": "Matemática",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Equações do 2º Grau",
+        "conteudo_detalhado": "Fórmula de Bhaskara e relações entre coeficientes e raízes.",
+        "tags": [
+            "Matemática",
+            "9ano",
+            "pesquisa escolar",
+            "equações do 2º grau"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-9-3",
+        "disciplina": "Matemática",
+        "ano": 9,
+        "bimestre": 3,
+        "titulo_pesquisa": "Funções",
+        "conteudo_detalhado": "Conceito de função, função do 1º e 2º grau e representação gráfica.",
+        "tags": [
+            "Matemática",
+            "9ano",
+            "pesquisa escolar",
+            "funções"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "MAT-9-4",
+        "disciplina": "Matemática",
+        "ano": 9,
+        "bimestre": 4,
+        "titulo_pesquisa": "Teorema de Pitágoras e Tales",
+        "conteudo_detalhado": "Aplicações em triângulos retângulos e feixes de retas paralelas.",
+        "tags": [
+            "Matemática",
+            "9ano",
+            "pesquisa escolar",
+            "teorema de pitágoras e tales"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-6-1",
+        "disciplina": "Língua Portuguesa",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Gêneros Textuais",
+        "conteudo_detalhado": "Fábulas, contos, notícias e cartas. Estrutura e finalidade.",
+        "tags": [
+            "Língua Portuguesa",
+            "6ano",
+            "pesquisa escolar",
+            "gêneros textuais"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-6-2",
+        "disciplina": "Língua Portuguesa",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Gramática",
+        "conteudo_detalhado": "Substantivos, adjetivos, verbos e pronomes. Ortografia e acentuação.",
+        "tags": [
+            "Língua Portuguesa",
+            "6ano",
+            "pesquisa escolar",
+            "gramática"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-7-1",
+        "disciplina": "Língua Portuguesa",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Sintaxe",
+        "conteudo_detalhado": "Sujeito e predicado, transitividade verbal e complementos.",
+        "tags": [
+            "Língua Portuguesa",
+            "7ano",
+            "pesquisa escolar",
+            "sintaxe"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-7-2",
+        "disciplina": "Língua Portuguesa",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Gêneros Jornalísticos",
+        "conteudo_detalhado": "Reportagem, editorial e crônica.",
+        "tags": [
+            "Língua Portuguesa",
+            "7ano",
+            "pesquisa escolar",
+            "gêneros jornalísticos"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-8-1",
+        "disciplina": "Língua Portuguesa",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Figuras de Linguagem",
+        "conteudo_detalhado": "Metáfora, comparação, personificação e antítese.",
+        "tags": [
+            "Língua Portuguesa",
+            "8ano",
+            "pesquisa escolar",
+            "figuras de linguagem"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-8-2",
+        "disciplina": "Língua Portuguesa",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Vozes Verbais",
+        "conteudo_detalhado": "Ativa, passiva e reflexiva.",
+        "tags": [
+            "Língua Portuguesa",
+            "8ano",
+            "pesquisa escolar",
+            "vozes verbais"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-9-1",
+        "disciplina": "Língua Portuguesa",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Orações Coordenadas e Subordinadas",
+        "conteudo_detalhado": "Conjunções e a estrutura do período composto.",
+        "tags": [
+            "Língua Portuguesa",
+            "9ano",
+            "pesquisa escolar",
+            "orações coordenadas e subordinadas"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LÍN-9-2",
+        "disciplina": "Língua Portuguesa",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Literatura Brasileira",
+        "conteudo_detalhado": "Introdução aos movimentos literários e autores clássicos.",
+        "tags": [
+            "Língua Portuguesa",
+            "9ano",
+            "pesquisa escolar",
+            "literatura brasileira"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-6-1",
+        "disciplina": "Redação",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Redação",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Redação no 6º ano.",
+        "tags": [
+            "Redação",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-6-2",
+        "disciplina": "Redação",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Redação",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Redação para trabalhos escolares.",
+        "tags": [
+            "Redação",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-7-1",
+        "disciplina": "Redação",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Redação",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Redação no 7º ano.",
+        "tags": [
+            "Redação",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-7-2",
+        "disciplina": "Redação",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Redação",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Redação para trabalhos escolares.",
+        "tags": [
+            "Redação",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-8-1",
+        "disciplina": "Redação",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Redação",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Redação no 8º ano.",
+        "tags": [
+            "Redação",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-8-2",
+        "disciplina": "Redação",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Redação",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Redação para trabalhos escolares.",
+        "tags": [
+            "Redação",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-9-1",
+        "disciplina": "Redação",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Redação",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Redação no 9º ano.",
+        "tags": [
+            "Redação",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "RED-9-2",
+        "disciplina": "Redação",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Redação",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Redação para trabalhos escolares.",
+        "tags": [
+            "Redação",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de redação"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-6-1",
+        "disciplina": "Literatura",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Literatura",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Literatura no 6º ano.",
+        "tags": [
+            "Literatura",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-6-2",
+        "disciplina": "Literatura",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Literatura",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Literatura para trabalhos escolares.",
+        "tags": [
+            "Literatura",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-7-1",
+        "disciplina": "Literatura",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Literatura",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Literatura no 7º ano.",
+        "tags": [
+            "Literatura",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-7-2",
+        "disciplina": "Literatura",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Literatura",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Literatura para trabalhos escolares.",
+        "tags": [
+            "Literatura",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-8-1",
+        "disciplina": "Literatura",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Literatura",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Literatura no 8º ano.",
+        "tags": [
+            "Literatura",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-8-2",
+        "disciplina": "Literatura",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Literatura",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Literatura para trabalhos escolares.",
+        "tags": [
+            "Literatura",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-9-1",
+        "disciplina": "Literatura",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Literatura",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Literatura no 9º ano.",
+        "tags": [
+            "Literatura",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "LIT-9-2",
+        "disciplina": "Literatura",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Literatura",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Literatura para trabalhos escolares.",
+        "tags": [
+            "Literatura",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de literatura"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-6-1",
+        "disciplina": "Sociologia",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Sociologia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Sociologia no 6º ano.",
+        "tags": [
+            "Sociologia",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-6-2",
+        "disciplina": "Sociologia",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Sociologia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Sociologia para trabalhos escolares.",
+        "tags": [
+            "Sociologia",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-7-1",
+        "disciplina": "Sociologia",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Sociologia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Sociologia no 7º ano.",
+        "tags": [
+            "Sociologia",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-7-2",
+        "disciplina": "Sociologia",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Sociologia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Sociologia para trabalhos escolares.",
+        "tags": [
+            "Sociologia",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-8-1",
+        "disciplina": "Sociologia",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Sociologia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Sociologia no 8º ano.",
+        "tags": [
+            "Sociologia",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-8-2",
+        "disciplina": "Sociologia",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Sociologia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Sociologia para trabalhos escolares.",
+        "tags": [
+            "Sociologia",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-9-1",
+        "disciplina": "Sociologia",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Sociologia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Sociologia no 9º ano.",
+        "tags": [
+            "Sociologia",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "SOC-9-2",
+        "disciplina": "Sociologia",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Sociologia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Sociologia para trabalhos escolares.",
+        "tags": [
+            "Sociologia",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de sociologia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-6-1",
+        "disciplina": "Filosofia",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Filosofia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Filosofia no 6º ano.",
+        "tags": [
+            "Filosofia",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-6-2",
+        "disciplina": "Filosofia",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Filosofia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Filosofia para trabalhos escolares.",
+        "tags": [
+            "Filosofia",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-7-1",
+        "disciplina": "Filosofia",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Filosofia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Filosofia no 7º ano.",
+        "tags": [
+            "Filosofia",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-7-2",
+        "disciplina": "Filosofia",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Filosofia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Filosofia para trabalhos escolares.",
+        "tags": [
+            "Filosofia",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-8-1",
+        "disciplina": "Filosofia",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Filosofia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Filosofia no 8º ano.",
+        "tags": [
+            "Filosofia",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-8-2",
+        "disciplina": "Filosofia",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Filosofia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Filosofia para trabalhos escolares.",
+        "tags": [
+            "Filosofia",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-9-1",
+        "disciplina": "Filosofia",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Filosofia",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Filosofia no 9º ano.",
+        "tags": [
+            "Filosofia",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "FIL-9-2",
+        "disciplina": "Filosofia",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Filosofia",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Filosofia para trabalhos escolares.",
+        "tags": [
+            "Filosofia",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de filosofia"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-6-1",
+        "disciplina": "Atualidades",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Atualidades",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Atualidades no 6º ano.",
+        "tags": [
+            "Atualidades",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-6-2",
+        "disciplina": "Atualidades",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Atualidades",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Atualidades para trabalhos escolares.",
+        "tags": [
+            "Atualidades",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-7-1",
+        "disciplina": "Atualidades",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Atualidades",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Atualidades no 7º ano.",
+        "tags": [
+            "Atualidades",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-7-2",
+        "disciplina": "Atualidades",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Atualidades",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Atualidades para trabalhos escolares.",
+        "tags": [
+            "Atualidades",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-8-1",
+        "disciplina": "Atualidades",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Atualidades",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Atualidades no 8º ano.",
+        "tags": [
+            "Atualidades",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-8-2",
+        "disciplina": "Atualidades",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Atualidades",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Atualidades para trabalhos escolares.",
+        "tags": [
+            "Atualidades",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-9-1",
+        "disciplina": "Atualidades",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Atualidades",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Atualidades no 9º ano.",
+        "tags": [
+            "Atualidades",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ATU-9-2",
+        "disciplina": "Atualidades",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Atualidades",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Atualidades para trabalhos escolares.",
+        "tags": [
+            "Atualidades",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de atualidades"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-6-1",
+        "disciplina": "Artes",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Artes",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Artes no 6º ano.",
+        "tags": [
+            "Artes",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-6-2",
+        "disciplina": "Artes",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Artes",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Artes para trabalhos escolares.",
+        "tags": [
+            "Artes",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-7-1",
+        "disciplina": "Artes",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Artes",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Artes no 7º ano.",
+        "tags": [
+            "Artes",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-7-2",
+        "disciplina": "Artes",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Artes",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Artes para trabalhos escolares.",
+        "tags": [
+            "Artes",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-8-1",
+        "disciplina": "Artes",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Artes",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Artes no 8º ano.",
+        "tags": [
+            "Artes",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-8-2",
+        "disciplina": "Artes",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Artes",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Artes para trabalhos escolares.",
+        "tags": [
+            "Artes",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-9-1",
+        "disciplina": "Artes",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Artes",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Artes no 9º ano.",
+        "tags": [
+            "Artes",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ART-9-2",
+        "disciplina": "Artes",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Artes",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Artes para trabalhos escolares.",
+        "tags": [
+            "Artes",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de artes"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-6-1",
+        "disciplina": "Inglês",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Inglês",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Inglês no 6º ano.",
+        "tags": [
+            "Inglês",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-6-2",
+        "disciplina": "Inglês",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Inglês",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Inglês para trabalhos escolares.",
+        "tags": [
+            "Inglês",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-7-1",
+        "disciplina": "Inglês",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Inglês",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Inglês no 7º ano.",
+        "tags": [
+            "Inglês",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-7-2",
+        "disciplina": "Inglês",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Inglês",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Inglês para trabalhos escolares.",
+        "tags": [
+            "Inglês",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-8-1",
+        "disciplina": "Inglês",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Inglês",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Inglês no 8º ano.",
+        "tags": [
+            "Inglês",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-8-2",
+        "disciplina": "Inglês",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Inglês",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Inglês para trabalhos escolares.",
+        "tags": [
+            "Inglês",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-9-1",
+        "disciplina": "Inglês",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Inglês",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Inglês no 9º ano.",
+        "tags": [
+            "Inglês",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "ING-9-2",
+        "disciplina": "Inglês",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Inglês",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Inglês para trabalhos escolares.",
+        "tags": [
+            "Inglês",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de inglês"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-6-1",
+        "disciplina": "Educação Física",
+        "ano": 6,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Educação Física",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Educação Física no 6º ano.",
+        "tags": [
+            "Educação Física",
+            "6ano",
+            "pesquisa escolar",
+            "introdução a educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-6-2",
+        "disciplina": "Educação Física",
+        "ano": 6,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Educação Física",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Educação Física para trabalhos escolares.",
+        "tags": [
+            "Educação Física",
+            "6ano",
+            "pesquisa escolar",
+            "temas avançados de educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-7-1",
+        "disciplina": "Educação Física",
+        "ano": 7,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Educação Física",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Educação Física no 7º ano.",
+        "tags": [
+            "Educação Física",
+            "7ano",
+            "pesquisa escolar",
+            "introdução a educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-7-2",
+        "disciplina": "Educação Física",
+        "ano": 7,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Educação Física",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Educação Física para trabalhos escolares.",
+        "tags": [
+            "Educação Física",
+            "7ano",
+            "pesquisa escolar",
+            "temas avançados de educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-8-1",
+        "disciplina": "Educação Física",
+        "ano": 8,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Educação Física",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Educação Física no 8º ano.",
+        "tags": [
+            "Educação Física",
+            "8ano",
+            "pesquisa escolar",
+            "introdução a educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-8-2",
+        "disciplina": "Educação Física",
+        "ano": 8,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Educação Física",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Educação Física para trabalhos escolares.",
+        "tags": [
+            "Educação Física",
+            "8ano",
+            "pesquisa escolar",
+            "temas avançados de educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-9-1",
+        "disciplina": "Educação Física",
+        "ano": 9,
+        "bimestre": 1,
+        "titulo_pesquisa": "Introdução a Educação Física",
+        "conteudo_detalhado": "Conteúdo detalhado para pesquisa sobre os fundamentos de Educação Física no 9º ano.",
+        "tags": [
+            "Educação Física",
+            "9ano",
+            "pesquisa escolar",
+            "introdução a educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    },
+    {
+        "id": "EDU-9-2",
+        "disciplina": "Educação Física",
+        "ano": 9,
+        "bimestre": 2,
+        "titulo_pesquisa": "Temas Avançados de Educação Física",
+        "conteudo_detalhado": "Exploração profunda de tópicos específicos de Educação Física para trabalhos escolares.",
+        "tags": [
+            "Educação Física",
+            "9ano",
+            "pesquisa escolar",
+            "temas avançados de educação física"
+        ],
+        "fonte": "MEC/BNCC/SME-RJ - Base de Pesquisa Escolar"
+    }
+]

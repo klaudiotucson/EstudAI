@@ -1,0 +1,26 @@
+# Exclude Node.js and build outputs
+node_modules
+.next
+out
+
+# Exclude native and desktop apps
+android
+dist_electron
+electron
+
+# Exclude backup and temp folders
+_vanilla_backup
+backup_libs
+_temp_scripts
+
+# Exclude large files and images
+*.exe
+*.apk
+*.zip
+*.rar
+*.png
+*.webp
+*.jpg
+*.mp4
+*.docx
+*.pdf
