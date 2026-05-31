@@ -131,17 +131,17 @@ export default function LoginForm() {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-5">
+    <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-5">
       {!supabaseReady && (
-        <div className="flex gap-3 rounded-2xl border border-amber-400/25 bg-amber-400/10 p-4 text-sm leading-5 text-amber-100">
+        <div className="flex gap-3 rounded-2xl border border-amber-400/25 bg-amber-400/10 p-3 text-[13px] leading-5 text-amber-100 sm:p-4 sm:text-sm">
           <AlertCircle className="mt-0.5 shrink-0 text-amber-300" size={18} />
           <span>Auth real ainda nao configurado. O modo demonstracao nao salva dados em conta.</span>
         </div>
       )}
 
       <label className="block space-y-2">
-        <span className="text-xs font-black uppercase tracking-[0.18em] text-[#B9C4D8]">E-mail</span>
-        <div className="flex h-[54px] items-center gap-3 rounded-2xl border border-white/12 bg-[#081229]/80 px-4 transition-all focus-within:border-[#00C8FF]/65 focus-within:shadow-[0_0_28px_rgba(0,200,255,0.14)]">
+        <span className="text-[11px] font-black uppercase tracking-[0.16em] text-[#B9C4D8] sm:text-xs">E-mail</span>
+        <div className="flex h-[52px] items-center gap-3 rounded-2xl border border-white/12 bg-[#081229]/80 px-4 transition-all focus-within:border-[#00C8FF]/65 focus-within:shadow-[0_0_28px_rgba(0,200,255,0.14)] sm:h-[54px]">
           <Mail size={19} className="text-[#00C8FF]" />
           <input
             autoComplete="email"
@@ -156,8 +156,8 @@ export default function LoginForm() {
       </label>
 
       <label className="block space-y-2">
-        <span className="text-xs font-black uppercase tracking-[0.18em] text-[#B9C4D8]">Senha</span>
-        <div className="flex h-[54px] items-center gap-3 rounded-2xl border border-white/12 bg-[#081229]/80 px-4 transition-all focus-within:border-[#00C8FF]/65 focus-within:shadow-[0_0_28px_rgba(0,200,255,0.14)]">
+        <span className="text-[11px] font-black uppercase tracking-[0.16em] text-[#B9C4D8] sm:text-xs">Senha</span>
+        <div className="flex h-[52px] items-center gap-3 rounded-2xl border border-white/12 bg-[#081229]/80 px-4 transition-all focus-within:border-[#00C8FF]/65 focus-within:shadow-[0_0_28px_rgba(0,200,255,0.14)] sm:h-[54px]">
           <Lock size={19} className="text-[#00C8FF]" />
           <input
             autoComplete={mode === "login" ? "current-password" : "new-password"}
@@ -175,7 +175,7 @@ export default function LoginForm() {
         </div>
       </label>
 
-      <div className="flex items-center justify-between gap-4 text-sm">
+      <div className="flex flex-col items-start gap-3 text-sm sm:flex-row sm:items-center sm:justify-between sm:gap-4">
         <label className="flex items-center gap-2 font-semibold text-[#B9C4D8]">
           <input
             checked={remember}
@@ -185,7 +185,7 @@ export default function LoginForm() {
           />
           Lembrar de mim
         </label>
-        <button type="button" onClick={handleResetPassword} className="font-bold text-[#00C8FF] transition-colors hover:text-white">Esqueci minha senha</button>
+        <button type="button" onClick={handleResetPassword} className="min-h-8 font-bold text-[#00C8FF] transition-colors hover:text-white">Esqueci minha senha</button>
       </div>
 
       {error && <p className="rounded-2xl border border-red-400/25 bg-red-500/10 p-3 text-sm font-semibold text-red-100">{error}</p>}

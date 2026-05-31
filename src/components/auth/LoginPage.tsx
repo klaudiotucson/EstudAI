@@ -5,12 +5,12 @@ import LogoEstudia from "@/components/ui/LogoEstudia";
 
 export default function LoginPage() {
   return (
-    <main className="relative flex min-h-screen items-center justify-center overflow-hidden bg-[linear-gradient(135deg,#030712,#07142f_55%,#020617)] px-5 py-10 text-white">
-      <div className="absolute left-[20%] top-[20%] h-[360px] w-[360px] rounded-full bg-[#00C8FF]/18 blur-[90px]" />
-      <div className="absolute right-[10%] top-[30%] h-[340px] w-[340px] rounded-full bg-[#8B35FF]/16 blur-[90px]" />
-      <div className="absolute bottom-[-140px] left-1/2 h-[420px] w-[720px] -translate-x-1/2 rounded-full bg-[#0B7CFF]/10 blur-[100px]" />
+    <main className="relative flex min-h-dvh items-start justify-center overflow-x-hidden bg-[linear-gradient(135deg,#030712,#07142f_55%,#020617)] px-4 py-5 text-white sm:px-6 sm:py-8 lg:items-center lg:px-8 lg:py-10">
+      <div className="absolute left-[-120px] top-[-90px] h-[260px] w-[260px] rounded-full bg-[#00C8FF]/16 blur-[80px] sm:left-[20%] sm:top-[20%] sm:h-[360px] sm:w-[360px]" />
+      <div className="absolute right-[-130px] top-[20%] h-[260px] w-[260px] rounded-full bg-[#8B35FF]/14 blur-[80px] sm:right-[10%] sm:top-[30%] sm:h-[340px] sm:w-[340px]" />
+      <div className="absolute bottom-[-180px] left-1/2 h-[320px] w-[520px] -translate-x-1/2 rounded-full bg-[#0B7CFF]/10 blur-[90px] sm:h-[420px] sm:w-[720px]" />
 
-      <section className="relative grid w-full max-w-6xl items-stretch gap-6 lg:grid-cols-[1fr_430px]">
+      <section className="relative grid w-full max-w-md items-stretch gap-4 sm:max-w-lg lg:max-w-6xl lg:grid-cols-[1fr_minmax(390px,430px)] lg:gap-6">
         <div className="relative hidden overflow-hidden rounded-[32px] border border-white/12 bg-[rgba(7,18,43,0.58)] p-10 shadow-[0_0_50px_rgba(0,132,255,0.14)] backdrop-blur-2xl lg:flex lg:flex-col">
           <LogoEstudia />
           <div className="mt-14 max-w-xl">
@@ -47,11 +47,16 @@ export default function LoginPage() {
           </div>
         </div>
 
-        <div className="rounded-[28px] border border-white/12 bg-[rgba(7,18,43,0.78)] p-8 shadow-[0_0_50px_rgba(0,132,255,0.18),inset_0_0_40px_rgba(255,255,255,0.03)] backdrop-blur-[20px] md:p-[42px]">
-          <div className="mb-10 flex justify-center lg:hidden">
-            <LogoEstudia />
+        <div className="rounded-[26px] border border-white/12 bg-[rgba(7,18,43,0.82)] p-5 shadow-[0_0_42px_rgba(0,132,255,0.16),inset_0_0_36px_rgba(255,255,255,0.03)] backdrop-blur-[20px] sm:p-7 md:p-9 lg:p-[42px]">
+          <div className="mb-6 flex items-center gap-4 lg:hidden">
+            <LogoEstudia compact className="h-16 w-16 rounded-[20px]" />
+            <div className="min-w-0">
+              <p className="text-[11px] font-black uppercase tracking-[0.22em] text-[#00C8FF]">Bem-vindo</p>
+              <h1 className="text-2xl font-black leading-tight text-white">EstudAI</h1>
+              <p className="text-sm leading-5 text-[#B9C4D8]">Estude melhor em qualquer tela.</p>
+            </div>
           </div>
-          <div className="mb-8">
+          <div className="mb-6 hidden lg:block">
             <p className="text-xs font-black uppercase tracking-[0.25em] text-[#00C8FF]">Bem-vindo</p>
             <h2 className="mt-2 text-4xl font-black text-white">EstudAI</h2>
             <p className="mt-2 text-base leading-6 text-[#B9C4D8]">Seu jeito de aprender começa aqui.</p>

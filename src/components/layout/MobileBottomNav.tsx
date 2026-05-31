@@ -12,7 +12,7 @@ const icons = { BookOpen, GraduationCap, Home, Star, User };
 
 export default function MobileBottomNav({ activeTab, onNavigate }: MobileBottomNavProps) {
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-50 flex h-[76px] items-center justify-around border-t border-white/12 bg-[rgba(5,13,34,0.94)] px-2 backdrop-blur-[18px] lg:hidden">
+    <nav className="fixed inset-x-0 bottom-0 z-50 flex h-[calc(72px+env(safe-area-inset-bottom))] items-start justify-around border-t border-white/12 bg-[rgba(5,13,34,0.94)] px-2 pb-[env(safe-area-inset-bottom)] pt-2 backdrop-blur-[18px] lg:hidden">
       {mobileNavItems.map((item) => {
         const Icon = icons[item.icon as keyof typeof icons] || Home;
         const active = activeTab === item.tab || (activeTab === "search" && item.label === "Início");

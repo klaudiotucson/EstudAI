@@ -23,13 +23,13 @@ export default function SearchBar({
         event.preventDefault();
         onSubmit();
       }}
-      className="group flex min-h-14 items-center gap-3 rounded-[18px] border border-white/14 bg-[rgba(8,18,41,0.88)] px-4 shadow-[inset_0_0_28px_rgba(255,255,255,0.025)] backdrop-blur-2xl transition-all focus-within:border-[#00C8FF]/70 focus-within:shadow-[0_0_36px_rgba(0,200,255,0.16)]"
+      className="group flex min-h-14 items-center gap-3 rounded-[18px] border border-white/14 bg-[rgba(8,18,41,0.88)] px-3 shadow-[inset_0_0_28px_rgba(255,255,255,0.025)] backdrop-blur-2xl transition-all focus-within:border-[#00C8FF]/70 focus-within:shadow-[0_0_36px_rgba(0,200,255,0.16)] sm:px-4"
     >
       <Search size={21} className="text-[#00C8FF]" />
       <input
         value={value}
         onChange={(event) => onChange(event.target.value)}
-        className="min-w-0 flex-1 bg-transparent py-4 text-[15px] font-semibold text-white outline-none placeholder:text-[#6F7C96]"
+        className="min-w-0 flex-1 bg-transparent py-4 text-sm font-semibold text-white outline-none placeholder:text-[#6F7C96] sm:text-[15px]"
         placeholder={placeholder}
       />
       <button

@@ -21,7 +21,7 @@ export default function MobileDrawer({ open, activeTab, onClose, onNavigate }: M
         onClick={onClose}
       />
       <aside
-        className={`fixed inset-y-0 left-0 z-[60] w-[300px] max-w-[86vw] border-r border-white/12 bg-[rgba(4,13,34,0.96)] p-5 shadow-2xl backdrop-blur-[22px] transition-transform duration-300 lg:hidden ${open ? "translate-x-0" : "-translate-x-full"}`}
+        className={`fixed inset-y-0 left-0 z-[60] flex w-[300px] max-w-[86vw] flex-col border-r border-white/12 bg-[rgba(4,13,34,0.96)] p-4 shadow-2xl backdrop-blur-[22px] transition-transform duration-300 sm:p-5 lg:hidden ${open ? "translate-x-0" : "-translate-x-full"}`}
       >
         <div className="flex items-center justify-between">
           <LogoEstudia />
@@ -30,7 +30,7 @@ export default function MobileDrawer({ open, activeTab, onClose, onNavigate }: M
           </button>
         </div>
 
-        <nav className="custom-scrollbar mt-8 max-h-[58vh] space-y-1 overflow-y-auto pr-1">
+        <nav className="custom-scrollbar mt-6 min-h-0 flex-1 space-y-1 overflow-y-auto pr-1">
           {sidebarItems.map((item) => (
             <SidebarItem
               key={item.label}
@@ -45,7 +45,7 @@ export default function MobileDrawer({ open, activeTab, onClose, onNavigate }: M
           ))}
         </nav>
 
-        <div className="absolute inset-x-5 bottom-5 space-y-3">
+        <div className="space-y-3 pt-4">
           <UserProfileCard />
           <SidebarItem label="Sair" icon="LogOut" danger onClick={() => { window.location.href = "/login"; }} />
         </div>

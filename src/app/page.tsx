@@ -341,7 +341,7 @@ export default function App() {
     .filter(item => new Date(item.nextReviewAt) <= new Date());
 
   return (
-    <div className="flex h-screen overflow-hidden bg-[radial-gradient(circle_at_top_left,#102b6b_0%,#050b1f_35%,#020617_100%)] text-slate-100 font-sans">
+    <div className="flex h-dvh min-h-dvh overflow-hidden bg-[radial-gradient(circle_at_top_left,#102b6b_0%,#050b1f_35%,#020617_100%)] text-slate-100 font-sans">
 
       <Sidebar activeTab={activeTab} onNavigate={handleBrandNavigate} />
 
@@ -356,8 +356,8 @@ export default function App() {
           </svg>
         </div>
 
-        <header className={`${activeTab === 'search' ? 'hidden' : 'h-20'} flex items-center justify-end px-12 gap-4 z-20`}>
-          <div className="flex items-center gap-6 bg-slate-900/50 border border-white/5 px-6 py-2.5 rounded-full backdrop-blur-md">
+        <header className={`${activeTab === 'search' ? 'hidden' : 'h-16 md:h-20'} flex items-center justify-end gap-3 px-4 md:px-8 lg:px-12 z-20`}>
+          <div className="hidden items-center gap-4 rounded-full border border-white/5 bg-slate-900/50 px-4 py-2.5 backdrop-blur-md sm:flex lg:gap-6 lg:px-6">
             <div className="flex items-center gap-2">
               <Flame size={16} className="text-orange-500 fill-orange-500/20" />
               <span className="text-sm font-bold text-slate-200">7 dias de foco</span>
@@ -375,7 +375,7 @@ export default function App() {
           </div>
         </header>
 
-        <div ref={contentAreaRef} className={`flex-1 overflow-y-auto ${activeTab === 'search' ? 'px-0' : 'px-5 md:px-12'} pb-20 relative z-10 custom-scrollbar`}>
+        <div ref={contentAreaRef} className={`flex-1 overflow-y-auto ${activeTab === 'search' ? 'px-0' : 'px-4 md:px-8 lg:px-12'} pb-[calc(5.5rem+env(safe-area-inset-bottom))] relative z-10 custom-scrollbar lg:pb-20`}>
 
           {activeTab === 'search' && (
             <DashboardPage
@@ -392,7 +392,7 @@ export default function App() {
           )}
 
           {activeTab === 'dashboard' && data && (
-            <div className="animate-in fade-in duration-500 space-y-10 max-w-5xl mx-auto pt-10">
+            <div className="animate-in fade-in duration-500 mx-auto max-w-5xl space-y-7 pt-4 md:space-y-10 md:pt-10">
               <StudyDashboard
                 stats={stats}
                 srsQueue={srsQueue}
@@ -401,10 +401,10 @@ export default function App() {
               />
 
               {/* Session Footer */}
-              <div className="mt-12 flex justify-center pb-12">
+              <div className="mt-8 flex justify-center pb-10 md:mt-12 md:pb-12">
                 <button
                   onClick={() => setShowDiary(true)}
-                  className="group flex items-center gap-3 px-10 py-5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-black rounded-[2rem] transition-all shadow-xl active:scale-95"
+                  className="group flex w-full max-w-md items-center justify-center gap-3 rounded-[1.5rem] bg-gradient-to-r from-emerald-600 to-teal-600 px-6 py-4 font-black text-white shadow-xl transition-all hover:from-emerald-500 hover:to-teal-500 active:scale-95 md:w-auto md:rounded-[2rem] md:px-10 md:py-5"
                 >
                   <CheckCircle2 size={24} />
                   Concluir Sessão de Estudo
@@ -414,36 +414,36 @@ export default function App() {
           )}
 
           {activeTab === 'planner' && (
-            <div className="animate-in fade-in duration-500 max-w-6xl mx-auto pt-10">
+            <div className="animate-in fade-in duration-500 mx-auto max-w-6xl pt-4 md:pt-10">
               <InteractiveStudyPlanner />
             </div>
           )}
 
           {activeTab === 'english' && (
-            <div className="animate-in fade-in duration-500 max-w-6xl mx-auto pt-10">
+            <div className="animate-in fade-in duration-500 mx-auto max-w-6xl pt-4 md:pt-10">
               <EnglishTutorAI />
             </div>
           )}
 
           {activeTab === 'atualidades' && (
-            <div className="animate-in fade-in duration-500 max-w-6xl mx-auto pt-10">
+            <div className="animate-in fade-in duration-500 mx-auto max-w-6xl pt-4 md:pt-10">
               <CurrentAffairsHub />
             </div>
           )}
 
           {data && !['search', 'dashboard', 'planner', 'english', 'atualidades'].includes(activeTab) && (
-            <div className="animate-in fade-in duration-500 space-y-10 max-w-5xl mx-auto pt-10">
-              <header className="flex flex-wrap gap-8 justify-between items-end border-b border-white/5 pb-8">
-                <div>
-                  <h2 className="text-5xl font-black text-white capitalize tracking-tighter">{data.tema}</h2>
+            <div className="animate-in fade-in duration-500 mx-auto max-w-5xl space-y-6 pt-4 md:space-y-10 md:pt-10">
+              <header className="flex flex-col gap-5 border-b border-white/5 pb-6 md:flex-row md:items-end md:justify-between md:gap-8 md:pb-8">
+                <div className="min-w-0">
+                  <h2 className="break-words text-3xl font-black capitalize leading-tight tracking-tight text-white sm:text-4xl lg:text-5xl">{data.tema}</h2>
                   <p className="text-blue-400 font-bold mt-2 uppercase text-xs tracking-widest">{data.disciplina}</p>
                 </div>
-                <div className="flex items-center gap-4">
+                <div className="flex w-full items-center gap-4 md:w-auto">
                   {(['resumo', 'mapa'].includes(activeTab)) && (
                     <button 
                       onClick={handleDownloadPDF} 
                       disabled={isGeneratingPDF}
-                      className="bg-white hover:bg-slate-200 disabled:bg-slate-300 text-[#020617] px-8 py-3.5 rounded-2xl font-black flex items-center gap-3 shadow-xl transition-all hover:scale-105 active:scale-95 disabled:hover:scale-100 disabled:cursor-not-allowed"
+                      className="flex w-full items-center justify-center gap-3 rounded-2xl bg-white px-5 py-3.5 font-black text-[#020617] shadow-xl transition-all hover:scale-105 hover:bg-slate-200 active:scale-95 disabled:cursor-not-allowed disabled:bg-slate-300 disabled:hover:scale-100 md:w-auto md:px-8"
                     >
                       {isGeneratingPDF ? (
                         <>
@@ -463,12 +463,12 @@ export default function App() {
               <div className="content-view">
                 {activeTab === 'resumo' && (
                   <div className="space-y-6">
-                    <div className="flex bg-[#0a1428]/60 p-1.5 rounded-2xl border border-white/5 w-fit">
+                    <div className="flex w-full overflow-x-auto rounded-2xl border border-white/5 bg-[#0a1428]/60 p-1.5 sm:w-fit">
                       {(['short', 'detailed', 'analytical'] as const).map((depth) => (
                         <button
                           key={depth}
                           onClick={() => setSummaryDepth(depth)}
-                          className={`px-6 py-2.5 rounded-xl text-xs font-black uppercase tracking-widest transition-all
+                          className={`min-w-max px-4 py-2.5 rounded-xl text-xs font-black uppercase tracking-widest transition-all sm:px-6
                                    ${summaryDepth === depth ? 'bg-blue-600 text-white shadow-lg' : 'text-slate-500 hover:text-slate-300'}
                                  `}
                         >
@@ -477,7 +477,7 @@ export default function App() {
                       ))}
                     </div>
 
-                    <div ref={contentToPrintRef} className="bg-[#0a1428]/40 border border-white/5 p-10 rounded-[2.5rem] shadow-2xl backdrop-blur-xl">
+                    <div ref={contentToPrintRef} className="rounded-[1.75rem] border border-white/5 bg-[#0a1428]/40 p-5 shadow-2xl backdrop-blur-xl sm:p-7 md:rounded-[2.5rem] md:p-10">
                       {summaryDepth === 'analytical' ? (
                         <AnalyticalSummary data={data.resumoAnalitico} />
                       ) : (

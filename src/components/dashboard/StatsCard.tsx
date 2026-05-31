@@ -16,11 +16,11 @@ const toneClasses = {
 
 export default function StatsCard({ icon: Icon, label, value, tone = "blue" }: StatsCardProps) {
   return (
-    <div className="flex items-center gap-3 rounded-2xl border border-white/10 bg-[rgba(13,25,55,0.72)] px-4 py-3 backdrop-blur-xl">
+    <div className="flex min-w-0 items-center gap-3 rounded-2xl border border-white/10 bg-[rgba(13,25,55,0.72)] px-3 py-3 backdrop-blur-xl sm:px-4">
       <div className={`grid h-10 w-10 place-items-center rounded-2xl bg-gradient-to-br ${toneClasses[tone]}`}>
         <Icon size={18} />
       </div>
-      <div>
+      <div className="min-w-0">
         <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#6F7C96]">{label}</p>
         <p className="text-sm font-black text-white">{value}</p>
       </div>
